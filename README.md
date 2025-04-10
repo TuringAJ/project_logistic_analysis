@@ -42,3 +42,18 @@ Install the required Python libraries:
 
 ```bash
 pip install -r requirements.txt
+```
+
+---
+
+## 🚛 Delivery Calculator (Streamlit App)
+
+Interactive app for calculating delivery times and costs based on the Random Forest model.
+
+> 📌 Requires `rf_time_model.pkl` and `rf_cost_model.pkl` models in the `/app/` folder
+
+### 🔧 Run the app locally
+
+```bash
+streamlit run app/app.py
+```
