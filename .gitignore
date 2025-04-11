@@ -11,6 +11,9 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
+# Jupyter autosave files
+*.ipynb-*
+
 #Environment files
 .env
 .env.*
