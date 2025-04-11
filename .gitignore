@@ -1,0 +1,38 @@
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[code]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+#Environment files
+.env
+.env.*
+
+#VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# OS-specific
+Thumbs.db
+
+# Exclude test data or outputs if any
+#data/raw/
+#data/interim/
+#data/processed/
+
+# (⚠️ we DO NOT exclude models - they are needed for launch)
