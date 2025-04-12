@@ -1,4 +1,4 @@
-# 📦 Logistics Analytics Project
+# 📦 Research and optimization of delivery processes based on the analysis of logistic data
 
 This project combines theory and practice to explore how **Data Science** and **Machine Learning** can optimize logistics operations. It focuses on improving delivery time and cost predictions using real-world data from **Regal Export LLP**.
 
